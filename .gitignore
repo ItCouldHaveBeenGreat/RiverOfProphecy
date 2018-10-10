@@ -1,0 +1,6 @@
+
+*.info
+.vs
+Library/*
+Temp/*
+obj/*
